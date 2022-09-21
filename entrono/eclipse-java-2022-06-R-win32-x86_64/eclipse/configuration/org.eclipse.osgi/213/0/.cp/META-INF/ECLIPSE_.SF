@@ -1,0 +1,60 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: enRLSAjjWctqcvlZ9WkaFXq6jJjy7
+ Ohq0eN67DnuHwI=
+SHA-256-Digest-Manifest: YNZTad0kKazYJdnqP640xWsp+CrOwzy5/Kar/HDGcqI=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestListener.class
+SHA-256-Digest: c6aboRUQ6tufxqN7fLqNwy5YbCR+MTjWHL2Das3wdx4=
+
+Name: .api_description
+SHA-256-Digest: Y1Q/3G0sONAq+7K/cd0/jz0n+vviitoDtXdEvfOoAH0=
+
+Name: org/eclipse/jdt/internal/junit4/runner/SubForestFilter.class
+SHA-256-Digest: cskHyqMYFXldHV0IK8y7urMwhppsugPe84vQSbXMso0=
+
+Name: org/eclipse/jdt/internal/junit4/runner/DescriptionMatcher.class
+SHA-256-Digest: iUUcjWWo8Ft1wbV7XKN67a958I7o+Ve0kTwlWEXnPnE=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestListener$Assump
+ tionFailedTestIdentifier.class
+SHA-256-Digest: 06CzHz/8IcQ+fEseY9RtNOdmz98oILZT7VqaV2QysnE=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestReference.class
+SHA-256-Digest: eqop8hLnI4lJS1EQ7xD7p1iu4oI4tnTVUZXyGH9IyVI=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestListener$Ignore
+ dTestIdentifier.class
+SHA-256-Digest: Y1XETWnEJ7X4KjzFeIPSMw208vLQdWAcLD3wo3ImTFc=
+
+Name: org/eclipse/jdt/internal/junit4/runner/DescriptionMatcher$Leadin
+ gIdentifierMatcher.class
+SHA-256-Digest: 4wgtSgRJX05YsgXSmyKJyqxm98GKQfdLdzdkb1hRn3s=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4Identifier.class
+SHA-256-Digest: aofhnPDUOhoAt3LJny38yE8z0YwH6rjZPPgkbE0Gr34=
+
+Name: org/eclipse/jdt/internal/junit4/runner/FailuresFirstSorter.class
+SHA-256-Digest: N84r0btrbyvE4Nv2IeiG/8QnpK/MAgoKKnhaonVHpQ8=
+
+Name: plugin.properties
+SHA-256-Digest: Zi3SSw0sBgHyElWD/cqchVe2La8OA1ewpy2FHc/9MRE=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestReference$1.cla
+ ss
+SHA-256-Digest: MAdKA2KkkRvhHNMRty10v52gDA6U9d//3elTFneeEkE=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestLoader.class
+SHA-256-Digest: YC3TxvNLywWWTYH4jt3VdPt8nCobi0qYEA8I8q8RVkg=
+
+Name: org/eclipse/jdt/internal/junit4/runner/DescriptionMatcher$ExactM
+ atcher.class
+SHA-256-Digest: 8NkboBTkk9RXjtWSe1IG8UQBYrHL3GHtZjw/0cl2ax0=
+
+Name: org/eclipse/jdt/internal/junit4/runner/DescriptionMatcher$Compos
+ iteMatcher.class
+SHA-256-Digest: MqyXEMmsgYsfT3WYwes8ZJGuGgVG1Z3BUv50zTNGKLU=
+
